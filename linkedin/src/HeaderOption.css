@@ -1,0 +1,16 @@
+.headerOption {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 20px;
+    color: grey;
+}
+
+.headerOption:hover {
+    color: black;
+}
+
+.headerOption h3{
+    font-size: 12px;
+    font-weight: 400;
+}
